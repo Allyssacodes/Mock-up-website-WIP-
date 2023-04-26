@@ -1,0 +1,27 @@
+html {
+    font-size: 22px;
+}
+
+body {
+    min-height: 150vh;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0rem;
+	background-color: black;
+}
+
+div {
+	background-color: #FFDAB9;
+	border-left: 3px solid #FF7F50;
+    border-right: 3px solid #FF7F50;
+	border-top: 3px solid #FF7F50;
+    border-bottom: 3px solid #FF7F50;
+	height: 100%;
+}
+
+th, td, caption {
+    border: 1px solid #333;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: separate;
+    padding: 0.5rem;
+}
